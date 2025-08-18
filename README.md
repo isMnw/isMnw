@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm isMnw</h1>
-<h3 align="center">Student who 💻codes by day, 🎮gamer by night</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismnw" alt="ismnw" /></a> </p>
-
+<h1>Hi 👋, I'm isMnw</h1>
+<h3>Student who 💻codes by day, 🎮gamer by night</h3>
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #3498db, #9b59b6); width: 60%; margin: 20px auto; border-radius: 1px;">
+ <p style="font-size: 1.1em; color: #555;">
+    🎓 Student & Tech Enthusiast <br>
+    💻 Exploring <b>C++, Arduino, ESP32/ESP8266, Web Dev</b> <br>
+    📡 Interested in <b>IoT, sensors, and hardware integration</b> <br>
+    🎮 Gamer | Creator | Curious Learner
+  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/is_mnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="is_mnw" height="30" width="40" /></a>
