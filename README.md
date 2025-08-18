@@ -3,10 +3,16 @@
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #3498db, #9b59b6); width: 60%; margin: 20px auto; border-radius: 1px;">
  <p style="font-size: 1.1em; color: #555;">
     🎓 Student & Tech Enthusiast <br>
-    💻 Exploring <b>C++, Arduino, ESP32/ESP8266, Web Dev</b> <br>
+    💻 Exploring <b>C++, Arduino, ESP32/ESP8266, Web Dev, Game Dev</b> <br>
     📡 Interested in <b>IoT, sensors, and hardware integration</b> <br>
     🎮 Gamer | Creator | Curious Learner
   </p>
+<h2 style="color: #2c3e50;">🌱 Current Focus</h2>
+  <ul style="list-style: none; padding: 0; font-size: 1em; color: #444;">
+    <li>⚡ Building projects with microcontrollers</li>
+    <li>⚡ Experimenting with web + hardware integration</li>
+    <li>⚡ Writing clean and functional code</li>
+  </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/is_mnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="is_mnw" height="30" width="40" /></a>
