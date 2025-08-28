@@ -16,30 +16,31 @@
 <h2></h2>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
- <a href ="mailto:nfwahyudi09@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%2300000000?style=for-the-badge&logo=gmail&logoColor=white" ></a>
- <a href ="https://www.youtube.com/@ismnw"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%2300000000?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40ismnw">
- <img alt="Static Badge" src="https://img.shields.io/badge/Twitch-%2300000000?style=for-the-badge&logo=twitch&logoColor=white&link=https%3A%2F%2Fwww.twitch.tv%2Fismnw">
- <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%2300000000?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fis_mnw">
- <img alt="Static Badge" src="https://img.shields.io/badge/discord-%2300000000?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F782124594130583592">
- <img alt="Static Badge" src="https://img.shields.io/badge/x-%2300000000?style=for-the-badge&logo=x&logoColor=white&link=https%3A%2F%2Fx.com%2FNaufalWahy97637">
- <img alt="Static Badge" src="https://img.shields.io/badge/Pinterest-%2300000000?style=for-the-badge&logo=pinterest&logoColor=white&link=https%3A%2F%2Fpinterest.com%2Fis_mnw%2F">
- <img alt="Static Badge" src="https://img.shields.io/badge/spotify-%2300000000?style=for-the-badge&logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31fnpm5dpoznjn4vxsqwhqnu4zkq">
- <img alt="Static Badge" src="https://img.shields.io/badge/steam-%2300000000?style=for-the-badge&logo=steam&logoColor=white&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561199117735660%2F">
- <img alt="Static Badge" src="https://img.shields.io/badge/Epic%20games-%2300000000?style=for-the-badge&logo=epicgames&logoColor=white&link=https%3A%2F%2Fstore.epicgames.com%2Fid%2Fu%2F2dc94e82188c491bac32727178b6cedd">
- <img alt="Static Badge" src="https://img.shields.io/badge/roblox-%2300000000?style=for-the-badge&logo=roblox&logoColor=white&link=https%3A%2F%2Fwww.roblox.com%2Fid%2Fusers%2F3485190865%2Fprofile">
+ <a href ="mailto:nfwahyudi09@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%2300000000?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+ <a href ="https://www.youtube.com/@ismnw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%2300000000?style=for-the-badge&logo=youtube&logoColor=%23FF0000"></a>
+ <a href ="https://www.twitch.tv/ismnw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Twitch-%2300000000?style=for-the-badge&logo=twitch&logoColor=%239146FF"></a>
+ <a href ="https://www.twitch.tv/ismnw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/instagram-%2300000000?style=for-the-badge&logo=instagram&logoColor=%23B64EA4"></a>
+ <a href ="https://discord.com/users/782124594130583592" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/discord-%2300000000?style=for-the-badge&logo=discord&logoColor=%235865F2"></a>
+ <a href ="https://x.com/NaufalWahy97637" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/x-%2300000000?style=for-the-badge&logo=x&logoColor=white"></a>
+ <a href ="https://pinterest.com/is_mnw/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Pinterest-%2300000000?style=for-the-badge&logo=pinterest&logoColor=%23E60023"></a>
+ <a href ="https://open.spotify.com/user/31fnpm5dpoznjn4vxsqwhqnu4zkq" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/spotify-%2300000000?style=for-the-badge&logo=spotify&logoColor=%231DB954"></a>
+ <a href ="https://steamcommunity.com/profiles/76561199117735660/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/steam-%2300000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+ <a href ="https://store.epicgames.com/id/u/2dc94e82188c491bac32727178b6cedd" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Epic%20games-%2300000000?style=for-the-badge&logo=epicgames&logoColor=white"></a>
+ <a href ="https://www.roblox.com/id/users/3485190865/profile" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/roblox-%2300000000?style=for-the-badge&logo=roblox&logoColor=%23E2231A"></a>
 </p>
 <h2></h2>
 <h3 align="left">✔ My Interests and Talents:</h3>
 <p>
- <img alt="Static Badge" src="https://img.shields.io/badge/arduino-%2300000000?style=for-the-badge&logo=arduino&logoColor=white&link=https%3A%2F%2Fwww.arduino.cc%2F">
- <img alt="Static Badge" src="https://img.shields.io/badge/ESPressif-%2300000000?style=for-the-badge&logo=espressif&logoColor=white&link=https%3A%2F%2Fwww.espressif.com%2F">
- <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-%2300000000?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/python-%2300000000?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F">
- <img alt="Static Badge" src="https://img.shields.io/badge/canva-%2300000000?style=for-the-badge&logo=canva&logoColor=white&link=https%3A%2F%2Fwww.canva.com%2F">
- <img alt="Static Badge" src="https://img.shields.io/badge/Davinci%20resolve-%2300000000?style=for-the-badge&logo=davinciresolve&logoColor=white&link=https%3A%2F%2Fwww.blackmagicdesign.com%2Fproducts%2Fdavinciresolve">
- <img alt="Static Badge" src="https://img.shields.io/badge/html-%2300000000?style=for-the-badge&logo=html5&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/css-%2300000000?style=for-the-badge&logo=css&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%2300000000?style=for-the-badge&logo=javascript&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/arduino-%2300000000?style=for-the-badge&logo=arduino&logoColor=%2300979D">
+ <img alt="Static Badge" src="https://img.shields.io/badge/ESPressif-%2300000000?style=for-the-badge&logo=espressif&logoColor=%23E7352C">
+ <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-%2300000000?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C">
+ <img alt="Static Badge" src="https://img.shields.io/badge/python-%2300000000?style=for-the-badge&logo=python&logoColor=%233776AB">
+ <img alt="Static Badge" src="https://img.shields.io/badge/canva-%2300000000?style=for-the-badge&logo=canva&logoColor=%2300C4CC">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Davinci%20resolve-%2300000000?style=for-the-badge&logo=davinciresolve&logoColor=%2300A8E8">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Roblox%20Studio-%2300000000?style=for-the-badge&logo=roblox%20studio&logoColor=%2300A2FF">
+ <img alt="Static Badge" src="https://img.shields.io/badge/html-%2300000000?style=for-the-badge&logo=html5&logoColor=%23E34F26">
+ <img alt="Static Badge" src="https://img.shields.io/badge/css-%2300000000?style=for-the-badge&logo=css&logoColor=%23264DE4">
+ <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%2300000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
 </p>
 <h2></h2>
