@@ -16,7 +16,7 @@
 <h2></h2>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
- <img alt="Static Badge" src="https://img.shields.io/badge/Email-%2300000000?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Anfwahyudi09%40gmail.com">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Email-%2300000000?style=for-the-badge&logo=gmail&logoColor=white" href ="mailto%3Anfwahyudi09%40gmail.co">
  <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%2300000000?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40ismnw">
  <img alt="Static Badge" src="https://img.shields.io/badge/Twitch-%2300000000?style=for-the-badge&logo=twitch&logoColor=white&link=https%3A%2F%2Fwww.twitch.tv%2Fismnw">
  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%2300000000?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fis_mnw">
