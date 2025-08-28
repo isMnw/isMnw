@@ -16,8 +16,8 @@
 <h2></h2>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
- <a href ="mailto%3Anfwahyudi09%40gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%2300000000?style=for-the-badge&logo=gmail&logoColor=white" ></a>
- <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%2300000000?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40ismnw">
+ <a href ="mailto:nfwahyudi09@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%2300000000?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+ <a href ="https://www.youtube.com/@ismnw"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%2300000000?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40ismnw">
  <img alt="Static Badge" src="https://img.shields.io/badge/Twitch-%2300000000?style=for-the-badge&logo=twitch&logoColor=white&link=https%3A%2F%2Fwww.twitch.tv%2Fismnw">
  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-%2300000000?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fis_mnw">
  <img alt="Static Badge" src="https://img.shields.io/badge/discord-%2300000000?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F782124594130583592">
