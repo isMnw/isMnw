@@ -1,6 +1,6 @@
 <img align="center" src=assets/thumbnail.jpg>
 <hr>
-<h1> align="center">Student who 💻Codes by day, 🎮Gamer by night</h1>
+<h1 align="center">Student who 💻Codes by day, 🎮Gamer by night</h1>
  <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
