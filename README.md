@@ -53,6 +53,6 @@ and writing clean, functional code while continuously learning new technologies.
 </p>
 <h2>Stats</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=isMnw&theme=transparent&hide_border=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350"/>
-<img align="right" src="https://nirzak-streak-stats.vercel.app/?user=isMnw&theme=transparent&hide_border=true&sideNums=ffffff&currStreakNum=ffffff&fire=ff7926&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&card_width=401"/>
+<img align="right" src="https://nirzak-streak-stats.vercel.app/?user=isMnw&theme=transparent&hide_border=true&sideNums=ffffff&currStreakNum=ffffff&fire=ff7926&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&card_width=350"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=isMnw&theme=github-compact&area=true&hide_border=true&line=ffffff&area_color=ffffff" width="100%"/>
