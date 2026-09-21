@@ -15,7 +15,7 @@ and writing clean, functional code while continuously learning new technologies.
 
   </td>
     <td width="35%" align="center" valign="top">
-      <img src="assets/mywaifu♥.gif" width="190"/>
+      <img src="assets/dontaskme.jpg" width="190"/>
     </td>
   </tr>
 </table>
